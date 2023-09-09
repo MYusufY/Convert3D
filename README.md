@@ -2,7 +2,7 @@
 Turn images to 3D model with just one button!
 # Support the developer
 You can support me [here](https://www.buymeacoffee.com/myusuf)
-I will apriciate it!
+I will appreciate it!
 # This version
 Since I published this program in a hurry, 
 I have not been able to create the application version (for MacOS, maybe Windows too) and dependencies file of the program yet.
