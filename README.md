@@ -21,7 +21,7 @@ Like i said in Updates & Version section, i will also make this program a MacOS 
 If many people need Windows app, i will do it too.
 Its only Python file for now.
 # More info about Updates
-Program itself is working nice now. But it needs a lot of libraries.
+Program itself working nice now. But it needs a lot of libraries.
 Therefore, i will make an dependencies file soon. And it will be easy to setup.
 # Contact me
 You can report any requests or issues on GitHub or m.yusuf.yildirim33@gmail.com
