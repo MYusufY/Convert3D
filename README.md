@@ -1,7 +1,7 @@
 # Convert3D
 Turn images to 3D model with just one button!
 # Support the developer
-You can support me [here]([https://www.google.com](https://www.buymeacoffee.com/myusuf)
+You can support me [here](https://www.buymeacoffee.com/myusuf)
 I will apriciate it!
 # This version
 Since I published this program in a hurry, 
