@@ -1,0 +1,30 @@
+            - name: PyBuilder Action
+  # You may pin to the exact commit or the version.
+  # uses: pybuilder/build@e5d41d695e2455db7eae2da489ee68b0de57ba02
+  uses: pybuilder/build@v12
+  with:
+    # Do checkout first
+    checkout: # optional, default is true
+    # Whether to install Python
+    install-python: # optional, default is true
+    # Whether Python should be installed via Homebrew
+    homebrew-python: # optional, default is false
+    # Python version to use, if installing
+    python-version: # optional, default is 3.11
+    # Install Python for specific architecture, if installing
+    architecture: # optional, default is x64
+    # Whether to use Virtualenv during a build
+    with-venv: # optional, default is true
+    # Install PyBuilder
+    install-pyb: # optional, default is true
+    # PyBuilder version to install
+    pyb-version: # optional, default is >=0.12.0
+    # Command to run PyBuilder
+    pyb-command: # optional, default is pyb
+    # PyBuilder command line arguments
+    pyb-args: # optional, default is -E ci -v -X
+    # PyBuilder extra command line arguments
+    pyb-extra-args: # optional, default is 
+    # Run a script before PyBuilder build
+    pre-build: # optional, default is 
+          
